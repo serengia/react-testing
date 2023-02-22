@@ -1,6 +1,6 @@
 # Testing in React
 
-In this project, I focus on testing in react. When you build react project using `npx create-react-app`, the testing environment is already set up for you. `Jest` testing runner and related react assertin library are set up for you.
+In this project, I focus on testing in react. When you build react project using `npx create-react-app`, the testing environment is already set up for you. `Jest test runner`([Jest](https://jestjs.io/docs/snapshot-testing)) and `Reast Testing Library` ( [react testing library](https://testing-library.com/docs/react-testing-library/intro/) ) are set up for you.
 
 In this repo, you will find examples of implementation of react `unit testing`, `integration testing` and `end-to-end` testing. I also go into testing `Async` functions and also `mocking`. I even go into demostrating how to incoporate `state` in testing and tests for different things when `some action` such as `click event` occurs.
 
